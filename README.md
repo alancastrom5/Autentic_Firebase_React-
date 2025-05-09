@@ -35,8 +35,8 @@ Um sistema de login seguro com validação de domínio de e-mail, autenticação
 
 1. **Preparar ambiente**  
    ```bash
-   git clone [URL_DO_REPOSITÓRIO]
-   cd [Login-Authentication]
+   git clone [https://github.com/alancastrom5/Autentic_Firebase_React-.git]
+   cd [Autentic_Firebase_React-]
    npm install
     ```
 
